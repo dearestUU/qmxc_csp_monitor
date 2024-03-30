@@ -37,7 +37,7 @@ dd_webhook3 = ""  # csp脚本异常监控群
 """
 标记在sqlite3中的at_outer、at_inner表，在本文件的Asset字段中查询到的资产
 """
-tag_area = '中国-陕西省-'
+tag_area = '中国-xx省-'
 
 
 """
