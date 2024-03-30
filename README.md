@@ -33,7 +33,7 @@ PS：没有CSP，就可以划走了......你打的流量能骗过设备，就可
 
 #### 程序运行截图
 
-<img src="/Users/lipenghui/Library/Application Support/typora-user-images/image-20240330165120319.png" alt="image-20240330165120319" style="zoom:25%;" />
+<img src="https://github.com/dearestUU/my_images/blob/main/image-20240330165120319.png?raw=true" />
 
 #### redis数据库的图
 
@@ -42,7 +42,9 @@ PS：没有CSP，就可以划走了......你打的流量能骗过设备，就可
 | 1    | db0  | 存特征的，会把所有的事件特征，按天、按月进行存储，主要用于分析内网的误报 |
 | 2    | db1  | 存误报策略的，15个字段供你选择，包含五元组字段               |
 
-<img src="/Users/lipenghui/Library/Application Support/typora-user-images/image-20240330164448417.png" alt="image-20240330164448417" style="zoom:25%;" />
+<img src="https://github.com/dearestUU/my_images/blob/main/image-20240330164448417.png?raw=true" />
+
+
 
 #### sqlite3数据库
 
@@ -62,12 +64,12 @@ PS：没有CSP，就可以划走了......你打的流量能骗过设备，就可
 | 12   | wl_domain  | 域名白名单。顾名思义                                         |
 | 13   | wl_event   | 事件名称白名单，自动过滤里面的所有事件。                     |
 
-<img src="/Users/lipenghui/Library/Application Support/typora-user-images/image-20240330180628190.png" alt="image-20240330180628190" style="zoom:50%;" />
+<img src="https://github.com/dearestUU/my_images/blob/main/image-20240330180628190.png?raw=true" style="zoom:50%;" />
 
-#### 飞书机器人发送的卡片消息
+#### 飞书机器人发送的卡片消息 
 
-<img src="/Users/lipenghui/Library/Application Support/typora-user-images/image-20240330175724042.png" alt="image-20240330175724042" style="zoom:25%;" />
+<img src="https://github.com/dearestUU/my_images/blob/main/image-20240330175724042.png?raw=true" style="zoom:50%;" />
 
 #### 程序实时生成的报表
 
-<img src="/Users/lipenghui/Library/Application Support/typora-user-images/image-20240330180403301.png" alt="image-20240330180403301" style="zoom:50%;" />
+<img src="https://github.com/dearestUU/my_images/blob/main/image-20240330180403301.png?raw=true" style="zoom:50%;" />
