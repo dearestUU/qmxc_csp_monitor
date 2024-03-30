@@ -1,6 +1,6 @@
 # QMCX CSP 运营分析之场景化监控
 
-**感谢启明星辰威胁情报中心VenusEye提供威胁情报查询接口！**
+**感谢威胁情报中心VenusEye提供的接口**
 
 Author：dearest
 
