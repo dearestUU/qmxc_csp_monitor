@@ -4,8 +4,6 @@
 
 Author：dearest
 
-Organization:  OBG-某部-某部-某部-某部-某人
-
 PS：没有CSP，就可以划走了......你打的流量能骗过设备，就可以不用看这篇文章了，你就是YYDS！
 
 ## What Can I Do ?
